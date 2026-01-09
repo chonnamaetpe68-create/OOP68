@@ -15,3 +15,10 @@
 #### ปวดท้องทำไง
 
 ทำใจเหมือนเดิม
+
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
+
