@@ -1,0 +1,2 @@
+print("game")
+print("snackgame")
